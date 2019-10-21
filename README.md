@@ -8,7 +8,7 @@ Person A should modify content here.
 
 ## Person B:
 
-Person B should modify content here.
+Modifyin' up in here. 
 
 ## Person C:
 
@@ -16,7 +16,7 @@ Person C should modify content here.
 
 ## Person D:
 
-Person D should modify content here.
+We ALL have rumps.
 
 ## Need inspiration?
 
